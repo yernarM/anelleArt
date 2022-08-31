@@ -376,7 +376,7 @@ wall2 painting,
 wall3 painting {
   width: 120rem;
   height: 156rem;
-  border: 2rem solid #d9996b;
+  /* border: 2rem solid #d9996b; */
   border-top-color: #221309;
   border-left-color: #361f0e;
   border-right-color: #4a2b13;
@@ -386,6 +386,9 @@ wall3 painting {
   border-radius: 2rem;
   padding: 1rem;
 }
+
+
+
 wall1 painting p,
 wall2 painting p,
 wall3 painting p {
